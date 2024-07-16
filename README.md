@@ -1,16 +1,18 @@
-## Hi there 👋
+## 안녕하세요 김성민입니다.
 
-<!--
-**Collection50/Collection50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 주도적으로 문제를 찾고 해결하는 프론트엔드 개발자입니다.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Gradu](gradu.gachon.ac.kr) - 가천대학교 컴퓨터공학과 졸업 인증 서비스 (`private`)
+- [Leets](www.leets.land) - IT 동아리 홈페이지 ([Github](https://github.com/Leets-Official/Leets-FE))
+
+## Opensource
+
+- [`toss/slash`](https://github.com/toss/slash/pulls?q=involves%3Acollection50)
+- [`toss/es-hangul`](https://github.com/toss/es-hangul/pulls?q=involves%3Acollection50)
+- [`toss/es-suspensive`](https://github.com/toss/suspensive/pulls?q=involves%3Acollection50)
+- [`modern-agile-team/modern-kit`](https://github.com/modern-agile-team/modern-kit/pulls?q=involves%3Acollection50)
+- [`toss/es-toolkit`](https://github.com/toss/es-toolkit/pulls?q=involves%3Acollection50)
+- [`reactjs/ko.react.dev`](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3ACollection50+is%3Aclosed)
+- [`Nextjs-kr/Nextjs.kr`](https://github.com/Nextjs-kr/Nextjs.kr/pulls?q=is%3Apr+author%3ACollection50+is%3Aclosed)
