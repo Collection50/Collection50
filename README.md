@@ -21,3 +21,9 @@
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=involves%3Acollection50)
 - [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3ACollection50+is%3Aclosed)
 - [Nextjs-kr/Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr/pulls?q=is%3Apr+author%3ACollection50+is%3Aclosed)
+
+<br/> 
+
+## Blog
+
+- [blog](https://whenever.crayon.land/)
