@@ -6,6 +6,10 @@
 
 ## Experience
 
+- [Toss Securities](https://corp.tossinvest.com/ko) - Frontend Developer Assistant (2024-11 ~)
+
+## Projects
+
 - [CRAYON](https://www.crayon.land/) - 동아리 모집 All In One 서비스 (`private`)
 - [Gradu](http://gradu.gachon.ac.kr) - 가천대학교 컴퓨터공학과 졸업 인증 서비스 (`private`)
 - [Leets](https://www.leets.land) - IT 동아리 홈페이지 ([Github](https://github.com/Leets-Official/Leets-FE))
