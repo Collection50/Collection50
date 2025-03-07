@@ -16,6 +16,7 @@
 
 ## Opensource
 
+- [tanstack-query](https://github.com/TanStack/query/pulls?q=involves:collection50)
 - [toss/slash](https://github.com/toss/slash/pulls?q=involves%3Acollection50)
 - [toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=involves%3Acollection50)
 - [toss/es-suspensive](https://github.com/toss/suspensive/pulls?q=involves%3Acollection50)
