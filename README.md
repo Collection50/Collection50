@@ -29,4 +29,4 @@
 
 ## Blog
 
-- [blog](https://whenever.crayon.land/)
+- [blog](https://seongmin-kim.tistory.com/)
