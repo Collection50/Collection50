@@ -4,7 +4,7 @@
 
 ## Experience
 
-- [Toss Securities](https://corp.tossinvest.com/ko) - Frontend Developer Assistant (2024-11 ~)
+- [Toss Securities](https://corp.tossinvest.com/ko) - Frontend Developer Assistant (2024-11 ~ 2025-06)
 
 ## Projects
 
