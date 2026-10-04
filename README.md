@@ -4,6 +4,7 @@
 
 ## Experience
 
+- [Class101](https://class101.net/ko) - Frontend Engineer (2025-09 ~ 현재)
 - [Toss Securities](https://corp.tossinvest.com/ko) - Frontend Developer Assistant (2024-11 ~ 2025-06)
 
 ## Projects
